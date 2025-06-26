@@ -1,4 +1,4 @@
-# ML-Classification-Loan-Default-Prediction
+# ML Classification - Loan Default Prediction
 
 **Data Description**
 
